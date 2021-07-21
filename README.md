@@ -12,6 +12,8 @@
 
 [<img src="https://spotify-now-playing-fpjs9bodg-4k4l1.vercel.app/api/spotify-playing" alt="4k4l1 Spotify Playing" width="350" />](https://open.spotify.com/user/2b2poh2lqf1346mls6hoeincq)
 
+##WORK IN PROGRESS. IGNORE THE FOLLOWING INFO
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
