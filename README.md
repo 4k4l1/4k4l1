@@ -2,7 +2,7 @@
 
 ## I'm a College Student ^^
 
-- 🔭 So I'm 21
+- 🔭 I'm 21
 - 🌱 I’m currently improving my skills with Python
 - 👯 I’m looking to collaborate with other companies in order to find a job as developer
 - 🥅 2021 Goals: Master Python and attend more exams
