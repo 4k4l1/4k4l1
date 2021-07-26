@@ -1,4 +1,4 @@
-### Hi there, I'm David - aka 4k4l1 👋
+### Hi there, I'm Davide - aka 4k4l1 👋
 
 ## I'm a College Student ^^
 
